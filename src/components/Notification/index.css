@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.each-notification-card {
+  border: 1px solid #64748b;
+  padding: 10px;
+  border-radius: 5px;
+  height: 120px;
+  width: 350px;
+  margin: 10px;
+  background-color: #e5e5e5;
+  display: flex;
+}
+
+.close-icon {
+  margin-top: 25px;
+  margin-left: 20px;
+  color: #0f172a;
+}

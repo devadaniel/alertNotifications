@@ -1,0 +1,79 @@
+/* Write your CSS here */
+
+.notification-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.space-between-container {
+  display: flex;
+  justify-content: space-between;
+}
+.alert-heading {
+  color: #0f172a;
+  font-family: 'Roboto';
+}
+.check-icon {
+  color: #2dca73;
+  height: 50px;
+  width: 17px;
+  margin-right: 10px;
+}
+.card-container {
+  display: flex;
+  margin-top: 0px;
+  margin-left: 20px;
+}
+
+.success-heading {
+  color: #2dca73;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.description {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 13px;
+}
+
+.error-heading {
+  color: #ff0b37;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.error-icon {
+  color: #ff0b37;
+  height: 50px;
+  width: 20px;
+  margin-right: 10px;
+}
+
+.warning-icon {
+  color: #ffb800;
+  height: 50px;
+  width: 20px;
+  margin-right: 10px;
+}
+
+.warning-heading {
+  color: #ffb800;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.info-icon {
+  color: #0f81e0;
+  height: 50px;
+  width: 20px;
+  margin-right: 10px;
+}
+
+.info-heading {
+  color: #0f81e0;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
